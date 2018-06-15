@@ -40,6 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DiaSemanaData.cs" />
+    <Compile Include="EmpresaData.cs" />
+    <Compile Include="ItinerarioData.cs" />
+    <Compile Include="ItinerarioLogradouroData.cs" />
+    <Compile Include="LinhaData.cs" />
+    <Compile Include="LinhaItinerarioData.cs" />
+    <Compile Include="LogradouroData.cs" />
+    <Compile Include="OnibusData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
