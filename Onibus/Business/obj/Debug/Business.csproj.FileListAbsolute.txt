@@ -1,0 +1,6 @@
+C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Business\bin\Debug\Business.dll
+C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Business\bin\Debug\Business.pdb
+C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Business\obj\Debug\Business.dll
+C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Business\obj\Debug\Business.pdb

@@ -40,7 +40,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DiaSemanaBusiness.cs" />
+    <Compile Include="EmpresaBusiness.cs" />
+    <Compile Include="ItinerarioBusiness.cs" />
+    <Compile Include="ItinerarioLogradouroBusiness.cs" />
+    <Compile Include="LinhaBusiness.cs" />
+    <Compile Include="LinhaItinerarioBusiness.cs" />
+    <Compile Include="LogradouroBusiness.cs" />
+    <Compile Include="OnibusBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{3ef64f3f-9b59-4574-8505-1772673d275f}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
