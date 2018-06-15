@@ -4,3 +4,9 @@ C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Entities\obj\Debug\
 C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Entities\obj\Debug\Entities.dll
 C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Entities\obj\Debug\Entities.pdb
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Entities\bin\Debug\Entities.dll
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Entities\bin\Debug\Entities.pdb
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Entities\obj\Debug\Entities.dll
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Entities\obj\Debug\Entities.pdb

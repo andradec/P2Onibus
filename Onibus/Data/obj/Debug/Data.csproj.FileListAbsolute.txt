@@ -4,3 +4,9 @@ C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Data\obj\Debug\Data
 C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Data\obj\Debug\Data.dll
 C:\Users\gusta\OneDrive\Documentos\Faculdade\P2Onibus\Onibus\Data\obj\Debug\Data.pdb
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Data\bin\Debug\Data.dll
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Data\bin\Debug\Data.pdb
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Data\obj\Debug\Data.dll
+C:\Users\aluno\Documents\p2\P2Onibus\Onibus\Data\obj\Debug\Data.pdb

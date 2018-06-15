@@ -12,5 +12,6 @@ namespace Entities
         public int Cnpj { get; set; }
         public int IdLinha { get; set; }
         public int IdDiaSemana { get; set; }
+        public string Horario { get; set; }
     }
 }
