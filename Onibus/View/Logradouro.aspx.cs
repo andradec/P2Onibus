@@ -23,5 +23,14 @@ namespace View
         {
 
         }
+
+        protected void btnCadastrar_Click(object sender, EventArgs e)
+        {
+            var logradouro = new Entities.Logradouro();
+            logradouro.Nome = txtLogradouro.Text;
+
+            var logradouroBusiness = new Business.LogradouroBusiness();
+            logradouroBusiness.Inserir(logradouro);
+        }
     }
 }

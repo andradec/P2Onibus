@@ -10,6 +10,6 @@ namespace Entities
     {
         public int Id { get; set; }
         public int IdItinerario { get; set; }
-        public int IdLinha { get; set; }
+        public string NomeLinha { get; set; }
     }
 }

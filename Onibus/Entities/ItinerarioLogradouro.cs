@@ -11,7 +11,7 @@ namespace Entities
         public int Id { get; set; }
         public string Observacao { get; set; }
         public int Sequencia { get; set; }
-        public int IdItinerario { get; set; }
+        public string NomeItinerario { get; set; }
         public int IdLogradouro { get; set; }
     }
 }

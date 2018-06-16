@@ -75,11 +75,22 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Empresa.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Logradouro.aspx" />
     <Content Include="Web.config" />
+    <Content Include="Itinerario.aspx" />
+    <Content Include="Linha.aspx" />
+    <Content Include="Onibus.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Empresa.aspx.cs">
+      <DependentUpon>Empresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Empresa.aspx.designer.cs">
+      <DependentUpon>Empresa.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -91,10 +102,41 @@
       <DependentUpon>Logradouro.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Itinerario.aspx.cs">
+      <DependentUpon>Itinerario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Itinerario.aspx.designer.cs">
+      <DependentUpon>Itinerario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Linha.aspx.cs">
+      <DependentUpon>Linha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Linha.aspx.designer.cs">
+      <DependentUpon>Linha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Onibus.aspx.cs">
+      <DependentUpon>Onibus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Onibus.aspx.designer.cs">
+      <DependentUpon>Onibus.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{a6ed6474-4fb1-46c2-9958-4aaba844eecf}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{3ef64f3f-9b59-4574-8505-1772673d275f}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
